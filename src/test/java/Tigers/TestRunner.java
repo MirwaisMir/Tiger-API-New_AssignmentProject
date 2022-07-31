@@ -6,7 +6,7 @@ public class TestRunner {
 	// I want to put some comments for paractice purposes
   public  Karate  runTest() {
         return Karate.run("classpath:features")
-                .tags("@smoke");
+                .tags("@Reggression");
               
 	}
 
