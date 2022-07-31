@@ -1,4 +1,4 @@
-@smoke
+@Reggression
 Feature: New assignment
 
   Scenario: End 2 end Account creation.
